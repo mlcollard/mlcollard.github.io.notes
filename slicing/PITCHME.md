@@ -6,4 +6,4 @@
 program slicing is the task of computing program slices
 * A program slice is often computed from the PDG (Program Dependency Graph
 
----?gist=onetapbeyond/8da53731fd54bab9d5c6&lang=groovy
+---?gist=onetapbeyond/8da53731fd54bab9d5c6&lang=groovy[@1-2]

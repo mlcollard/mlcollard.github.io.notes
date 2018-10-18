@@ -10,6 +10,8 @@ program slicing is the task of computing program slices
 
 # SECOND
 
-?gist=onetapbeyond/8da53731fd54bab9d5c6&lang=groovy[@1-2]
+```
+---?gist=onetapbeyond/8da53731fd54bab9d5c6&lang=groovy[@1-2]
+```
 
 ---
